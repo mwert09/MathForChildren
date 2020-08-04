@@ -1,0 +1,68 @@
+@media all and (max-width: 576px) {
+  .sayilar{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: no-wrap;
+    justify-content: center;
+    .sayi{
+      margin-top: 100px;
+      margin-bottom: auto;
+      margin-left: 50px;
+      margin-right: 50px;
+    }
+  }
+
+  .skor{
+    display: flex !important;
+    flex-wrap: no-wrap !important;
+    justify-content: center !important;
+    align-items: center !important;
+    
+  }
+}
+
+.skor{
+    margin-top: 0px !important;
+      
+}
+
+.sayilar{
+  margin-top: 50px;
+}
+
+.girisler{
+  margin: 50px auto;
+}
+
+.buyuk{
+  width: 50% !important;
+}
+
+.zorluk{
+  margin-left: -100px;
+}
+
+.buton{
+  background-color: #21e6c1 !important;
+  font-family: 'Mulish', sans-serif !important;
+  font-weight: 900 !important;
+  color: #071e3d !important;
+  box-shadow: 3px 3px 3px 0px #21e6c1 !important;
+  transition: 0.3s;
+}
+
+.buton:hover{
+  background-color: #21e6c2c2 !important;
+  color: #071e3d !important;
+  box-shadow: 2px 2px 2px 0px #21e6c2c2 !important;
+  transition: 0.3s;
+}
+
+.cevap{
+  font-family: 'Mulish', sans-serif !important;
+  box-shadow: 5px 5px 5px 0px #21e6c2c2 !important;
+  color: black !important;
+  border-radius: 30px !important;
+}
+
+

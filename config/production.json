@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://mwert123:mwert123@mathforkids-zcxh7.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}

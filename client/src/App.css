@@ -1,0 +1,15 @@
+
+html{
+  background-color: #071e3d;
+}
+
+.App {
+  text-align: center;
+  background-color: #071e3d;
+}
+#root{
+  background-color: #071e3d;
+  margin-top: 25vh;
+  min-width: 576w;
+}
+

@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,500;1,900&display=swap');
+
+html{
+    background-color: #21e6c1;
+    font-family: 'Mulish', sans-serif;
+    
+}
+
+.nav-link{
+    font-family: 'Mulish', sans-serif;
+    font-weight: 900;
+    transition: 0.3s;
+}
+
+.nav-link:hover{
+    color: #ff304f !important;
+    transition: 0.3s;
+}
+
+.cikis{
+    color: #21e6c1 !important;
+    transition: 0.3s;
+}
+
+.cikis:hover{
+    color: #ff304f !important;
+    transition: 0.3s;
+}
+
+.simge{
+    color: #21e6c1 !important;
+    transition: 0.3s;
+}
+
+.simge:hover{
+    color: #ff304f !important;
+    transition: 0.3s;
+}

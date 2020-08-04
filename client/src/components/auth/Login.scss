@@ -1,0 +1,24 @@
+h1{
+    color: #21e6c1;
+    font-family: 'Mulish', sans-serif !important;
+}
+
+html{
+    font-family: 'Mulish', sans-serif !important;
+}
+
+.loginButton{
+    color: white !important;
+    font-size: large !important;
+    font-weight: 900 !important;
+    background-color: #ff304f !important;
+    
+    transition: 0.5s;
+}
+
+.loginButton:hover{
+    color: #071e3d !important;
+    background-color: #21e6c1 !important;
+    transition: 0.5s;
+}
+
